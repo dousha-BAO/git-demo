@@ -1,0 +1,25 @@
+
+
+import turtle
+turtle. setup (600, 500)
+
+turtle. forward(100)
+turtle. left (72)
+turtle. forward(100)
+turtle. right (144)
+turtle. forward(100)
+turtle. left (72)
+turtle. forward(100)
+turtle. right (144)
+turtle. forward(100)
+turtle. left (72)
+turtle. forward(100)
+turtle. right (144)
+turtle. forward(100)
+turtle. left (72)
+turtle. forward(100)
+turtle. right (144)
+turtle. forward(100)
+turtle. left(72)
+turtle. forward(100)
+turtle. right (144)
